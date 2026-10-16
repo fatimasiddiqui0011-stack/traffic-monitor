@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+data/*.mp4
+*.pt
+outputs/summary.csv
+.vscode/
